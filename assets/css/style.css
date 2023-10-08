@@ -1,0 +1,88 @@
+/* ARCHIVO DE ESTILOS */
+
+
+.boton-morado{
+  background-color: #5E1A57 !important;
+  color: #FFFF !important;
+  width: 30%;
+  height: 30px;
+  border-radius: 40px;
+}
+
+.boton-amarillo{
+  background-color: #FFD93D;
+  width: 30%;
+  height: 30px;
+  border-radius: 40px;
+}
+
+/* NAVBAR */
+.nav-colors {
+  color: white !important;
+}
+
+/*    VISTA PRINCIPAL   */
+.boton-info{
+  border: 1px solid;
+  background-color: #5E1A57;
+  border-color: #5E1A57;
+  color: white;
+  width: 30%;
+  height: 30px;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.iconos{
+  color: #5E1A57;
+}
+
+.cards-idiomas{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 120px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+
+/* VISTA QUIENES SOMOS  */
+
+.historia-instituto{
+  background-color:#F9B400;
+  color:black;
+  padding: 20px;
+  text-align: justify;
+  text-align: left;
+}
+.card-body{
+  background-color: #5E1A57;
+  color: black;
+}
+
+
+/* VISTA LOGIN Y REGISTRARSE */
+
+.boton-aceptar{
+  border: 1px solid;
+  background-color: #5E1A57;
+  border-color: #5E1A57;
+  color: white;
+  width: 45%;
+  height: 40px;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+
+.boton-cancelar{
+  border: 2px solid;
+  background-color: transparent;
+  border-color: #5E1A57;
+  color: #5E1A57;
+  width: 45%;
+  height: 40px;
+  border-radius: 40px;
+  cursor: pointer;
+}
